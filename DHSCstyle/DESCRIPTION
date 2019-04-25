@@ -1,0 +1,11 @@
+Package: DHSCstyle
+Title: Graph And Colour Templates For Use In DHSC
+Version: 0.0.0.9000
+Authors@R: person("Tom", "Morris", email = "Thomas.Morris@dhsc.gov.uk", role = c("aut", "cre"))
+Description: This package includes 2 functions to format graphs. One based on a BBC style pacakage     and the template in the govstyle package. It is not for sharing widely, just making my life     easier.
+Depends: R (>= 3.5.1)
+License: Open
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse
+RoxygenNote: 6.1.1
